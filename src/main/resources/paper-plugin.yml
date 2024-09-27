@@ -1,0 +1,7 @@
+name: CustomEnchantExample
+version: '1.0'
+main: saber.customEnchantExample.CustomEnchantExample
+api-version: '1.21.1'
+authors: [ Saber ]
+description: Example Custom Enchant Plugin
+bootstrapper: saber.customEnchantExample.CustomEnchantExampleBootStrapper
