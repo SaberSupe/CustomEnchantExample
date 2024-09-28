@@ -1,5 +1,6 @@
  # Custom Enchant Example  
 This plugin makes an enchant called hello which can be applied to pickaxes and will send the player a "hello" message when they break a block with the pick  
+It is intended as an example of Paper's 1.21+ enchantment registry system  
   
 When making your own enchant plugin, remember to put your bootstrapper into the paper-plugin.yml
   
